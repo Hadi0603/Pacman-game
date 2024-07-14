@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman game", "Pacman game\Pacman game.csproj", "{20EC5B1C-A853-4D44-B30C-63CFFAE150B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20EC5B1C-A853-4D44-B30C-63CFFAE150B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EC5B1C-A853-4D44-B30C-63CFFAE150B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EC5B1C-A853-4D44-B30C-63CFFAE150B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EC5B1C-A853-4D44-B30C-63CFFAE150B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E1C26E-0F6D-4117-A420-EA3736CD126A}
+	EndGlobalSection
+EndGlobal
